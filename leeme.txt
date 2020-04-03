@@ -1,0 +1,5 @@
+1) vagrant up
+2) vagrant plugin install vagrant-notify-forwarder
+3) vagrant reload
+configurar el archivo proyectos.sh
+
